@@ -2,7 +2,11 @@
 
 ![OpenResty](https://img.shields.io/badge/OpenResty-0000A0?style=for-the-badge&logo=openresty&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-This project is a production-grade template for a secure and scalable API Gateway built with **OpenResty** (Nginx + Lua). It serves as a single, intelligent entry point for a microservices architecture, offloading critical tasks like authentication, routing, and schema validation from backend services.
+This project is a boilerplate for a secure and scalable API Gateway built with **OpenResty** (Nginx + Lua). It serves as a single, intelligent entry point for a microservices architecture, offloading critical tasks like authentication, routing, and schema validation from backend services.
+
+
+https://github.com/user-attachments/assets/c81c642b-0f79-4030-857c-29ee65a46d6a
+
 
 ---
 
