@@ -4,9 +4,7 @@
 
 This project is a boilerplate for a secure and scalable API Gateway built with **OpenResty** (Nginx + Lua). It serves as a single, intelligent entry point for a microservices architecture, offloading critical tasks like authentication, routing, and schema validation from backend services.
 
-
-https://github.com/user-attachments/assets/c81c642b-0f79-4030-857c-29ee65a46d6a
-
+https://github.com/user-attachments/assets/e37bc025-4f55-4397-967c-401afed3b1f7
 
 ---
 
